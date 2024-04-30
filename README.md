@@ -1,1 +1,1 @@
-# Fashion_GAN_DL
+# Fashion_GAN
